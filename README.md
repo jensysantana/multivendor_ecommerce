@@ -50,4 +50,7 @@ git push -u origin main
 git remote add origin https://github.com/jensysantana/multivendor_ecommerce.git
 git branch -M main
 git push -u origin main
+
+
+git add .
 ```
